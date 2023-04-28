@@ -1,2 +1,2 @@
 def funcC():
-  print("To wykonanie modułu C")
+  print("To wykonanie modułu C - zmieniony")
